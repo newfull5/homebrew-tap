@@ -1,6 +1,6 @@
 cask "pastesheet" do
   version "0.1.0-beta"
-  sha256 "c4d17023572ea09e436fa3285bd126c303b2267cbdd8f3cbfc5829ee02b49706"
+  sha256 "6b26f74eddaa1e7d93224c88ede6f2a6f4871d0df21814c953ca7e3843385866"
 
   url "https://github.com/newfull5/PasteSheets/releases/download/v#{version}/PasteSheet_0.1.0_aarch64.dmg"
   name "PasteSheet"
