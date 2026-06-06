@@ -1,8 +1,8 @@
 cask "pastesheet" do
-  version "0.2.0"
-  sha256 "24f107d7e743d81761476e52f4c8fdc3ef44123821179a46075c9f8370d47baf"
+  version "0.3.0"
+  sha256 "5eebc5ea86b0c7c33f0154d26ec6757865f85c0a86510d918dce65e51065b631"
 
-  url "https://github.com/newfull5/PasteSheets/releases/download/v#{version}/PasteSheet_#{version}_aarch64.dmg"
+  url "https://github.com/newfull5/PasteSheets/releases/download/v#{version}/PasteSheet_#{version}_universal.dmg"
   name "PasteSheet"
   desc "Smart Clipboard Manager with Folder Organization"
   homepage "https://github.com/newfull5/PasteSheets"
